@@ -2,7 +2,7 @@
 Application required: XAMPP
 
 
-# WallpaperPro — Professional
+# WallpaperPro
 
 Drop this folder into `xampp/htdocs/WallpaperPro`.
 
